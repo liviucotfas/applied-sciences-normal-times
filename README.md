@@ -4,7 +4,7 @@ submitted to the `Applied Sciences` journal.
 
 Please feel free to contact us at liviu.cotfas at ase .ro for further details. 
 
-## Boarding Situations
+## Boarding Simulations
 
 All the simulation recordings have been performed using the following settings:
 - occupancy level: 100% (180 passengers);
