@@ -1,5 +1,5 @@
 Recordings of the simulations presented in the paper
-### **"Minimizing Health Risks as a Function of the Number of Airplane Boarding Groups"** 
+### **"Evaluating Classical Airplane Boarding Methods for Passenger Health during Normal Times"** 
 submitted to the `Applied Sciences` journal. 
 
 Please feel free to contact us at liviu.cotfas at ase .ro for further details. 
